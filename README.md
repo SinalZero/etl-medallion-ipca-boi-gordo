@@ -37,16 +37,3 @@ notebooks/  -> Processos ETL (Bronze, Silver, Gold)
 sql/        -> Consultas analíticas SQL (camada Gold)
 images/     -> Evidências visuais do Databricks e resultados
 
----
-
-## 🛠 Tecnologias Utilizadas
-
-- **Databricks** – Orquestração e execução do pipeline
-- **Apache Spark (PySpark)** – Processamento distribuído
-- **Spark SQL** – Transformações analíticas e camada Gold
-- **Delta Lake** – Persistência transacional dos dados
-- **Arquitetura Medallion** – Organização em Bronze, Silver e Gold
-- **Python** – Lógica de ingestão e transformação
-- **SQL** – Criação de views analíticas
-- **Jupyter Notebook** – Desenvolvimento e documentação
-- **Git & GitHub** – Versionamento e portfólio
